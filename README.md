@@ -47,4 +47,4 @@ He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idiom
 >Todo lo que brilla no es oro . | William Shakespeare
 
 
-**Buscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
+**Búscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
