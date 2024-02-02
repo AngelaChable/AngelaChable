@@ -1,5 +1,5 @@
-**#Hello world, I'm a student of computer systems engineer on TECNM Mérida.** `#0969DA`
-##I'm currently learning another programming language and robotics stuff.
+**#`#0969DA`Hello world, I'm a student of computer systems engineer on TECNM Mérida.** `
+###I'm currently learning another programming language and robotics stuff.
 I like to read books such as Greek mythology, Science fiction, among others.
 #Reach me on Instagram as angela.ch_10
 
