@@ -1,7 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on me.
-- 🌱 I’m currently learning another programming language.
-- 💬 Ask me about my favorite saga books "Percy Jackson"
-- 📫 How to reach me: angela.ch_10 on Instragram
-- ⚡ Fun fact: I prefer to be on a warm weather.
+Hello world, I'm a student of computer systems engineer on TECNM Mérida. I'm currently learning another programming language and robotics stuff.
+I like to read books such as Greek mythology, Science fiction, etc.
+Reach me on Instagram as angela.ch_10
+
+⚡ Fun fact: I prefer to be on a warm weather.
   
