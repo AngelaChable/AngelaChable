@@ -21,7 +21,7 @@ I´ve been learning english since 5 years ago. I would like to learn italian lan
 
 >All that glitters is not gold. | William Shakespeare
 
-> [!IMPORTAN]
+> [!IMPORTANT]
 > **Reach me on Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
 
 `ESPAÑOL`
@@ -47,7 +47,7 @@ He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idiom
 >Todo lo que brilla no es oro . | William Shakespeare
 
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > **Búscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
 
 
