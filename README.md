@@ -1,4 +1,4 @@
-[![WELCOME.png](https://i.postimg.cc/26ZryCts/WELCOME.png)](https://postimg.cc/tZpLmGpk)ÈNGLISH`
+[![WELCOME.png](https://i.postimg.cc/26ZryCts/WELCOME.png)](https://postimg.cc/tZpLmGpk)
 
 `ENGLISH`
  **Hello world, I'm a student of computer systems engineer on TECNM Mérida.** 
@@ -21,8 +21,8 @@ I´ve been learning english since 5 years ago. I would like to learn italian lan
 
 >All that glitters is not gold. | William Shakespeare
 
-
-**Reach me on Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
+> [!IMPORTAN]
+> **Reach me on Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
 
 `ESPAÑOL`
 
@@ -47,14 +47,16 @@ He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idiom
 >Todo lo que brilla no es oro . | William Shakespeare
 
 
-**Búscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
+> [!IMPORTANTE]
+> **Búscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
 
 
 [![pexels-irina-iriser-974870.jpg](https://i.postimg.cc/3wmVy97w/pexels-irina-iriser-974870.jpg)](https://postimg.cc/xkjthvXr)
 
 
 
-
+> [!NOTE]
 > IF YOU UNDERSTAND THIS PICTURE, LET US TALK WISE PERSON...
+
 
 [![Heroes-of-olympus-wallpaper-by-Viria-The-Heroes-of-Olympus-Photo.png](https://i.postimg.cc/v8jbJqP1/Heroes-of-olympus-wallpaper-by-Viria-The-Heroes-of-Olympus-Photo.png)](https://postimg.cc/vDWJ9zwM)
