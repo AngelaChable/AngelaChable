@@ -1,3 +1,5 @@
+[![WELCOME.png](https://i.postimg.cc/26ZryCts/WELCOME.png)](https://postimg.cc/tZpLmGpk)
+
  **Hello world, I'm a student of computer systems engineer on TECNM Mérida.** 
 
 **ABOUT ME**
