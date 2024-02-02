@@ -44,7 +44,7 @@ He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idiom
   
 >La vida es como manejar una bicicleta. Para mantenerte balanceado, debes seguirte moviendo . | Albert Eistein
 
->Todo lo que brilla no es oro . | William Shakespeare
+>No todo lo que brilla es oro . | William Shakespeare
 
 
 > [!IMPORTANT]
