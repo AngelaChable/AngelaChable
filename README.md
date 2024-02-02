@@ -48,3 +48,12 @@ He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idiom
 
 
 **Búscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
+
+
+
+
+
+
+> IF YOU UNDERSTAND THIS PICTURE, LET US TALK WISE PERSON...
+
+[![Heroes-of-olympus-wallpaper-by-Viria-The-Heroes-of-Olympus-Photo.png](https://i.postimg.cc/v8jbJqP1/Heroes-of-olympus-wallpaper-by-Viria-The-Heroes-of-Olympus-Photo.png)](https://postimg.cc/vDWJ9zwM)
