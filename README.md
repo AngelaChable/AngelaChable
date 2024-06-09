@@ -5,7 +5,7 @@
 
 **ABOUT ME 😉:**
 
-*I'm currently learning another programming language 💻: and robotics 🤖 stuff.
+*I'm currently learning programming languaged 💻: and robotics 🤖 stuff.
 I like to read books of Greek mythology, Science fiction, among others.
 I´ve been learning english since 5 years ago. I would like to learn italian language as my third language.*
 
@@ -30,7 +30,7 @@ I´ve been learning english since 5 years ago. I would like to learn italian lan
 
 **SOBRE MI 😉**
 
-*Actualmente estoy aprendiendo otro lenguaje de programación💻 y cosas de robótica 🤖.
+*Actualmente estoy aprendiendo lenguajes de programación💻 y cosas de robótica 🤖.
 Me gusta leer libros de mitología griega, ciencia ficción, entre otros.
 He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idioma italiano como mi tercer idioma.*
 
