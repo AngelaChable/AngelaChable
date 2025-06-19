@@ -1,62 +1,101 @@
-[![WELCOME.png](https://i.postimg.cc/26ZryCts/WELCOME.png)](https://postimg.cc/tZpLmGpk)
+[![WELCOME.png](https://i.postimg.cc/Hx5mTkbT/WELCOME.png)](https://postimg.cc/tZXw5yrc)
 
-`ENGLISH`
- **Hello world, I'm a student of computer systems engineer on TECNM Mérida.** 
+# | Dev en formación / Developer in Training
 
-**ABOUT ME 😉:**
+🇪🇸 Apasionada por la tecnología, con experiencia práctica en automatización de pruebas, desarrollo frontend y backend.  
+Me enfoco en la mejora continua de procesos mediante el uso de herramientas modernas y eficientes.
 
-*I'm currently learning programming languages 💻: and robotics 🤖 stuff.
-I like to read books of Greek mythology, Science fiction, among others.
-I´ve been learning english since 5 years ago. I would like to learn italian language as my third language.*
+🇺🇸 Passionate about technology, with hands-on experience in test automation, frontend and backend development.  
+I focus on process improvement through modern and efficient tools.
 
-*My favorite videogames are `MINECRAFT` `FREE FIRE`*
+---
 
+## 🚀 Tecnologías principales / Main Technologies
 
+🇪🇸 Aquí un desglose de las tecnologías que he utilizado y las que estoy en proceso de aprender.  
+🇺🇸 Here's a breakdown of the technologies I've worked with and the ones I'm currently learning.
 
-⚡ Fun fact: I prefer to be on a warm weather🌞.
+---
 
-`TECNOLOGY` `GAMES` `PROGRAMMING` `BOOKS` `ROBOTICS`
-  
->Life is like riding a bicycle. To keep your balance, you must keep moving. | Albert Eistein
+## 🧪 Quality Assurance & Testing
 
->All that glitters is not gold. | William Shakespeare
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-472871?style=for-the-badge&logo=appium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-> [!IMPORTANT]
-> **Reach me on Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
+- 🇪🇸 Automatización de pruebas web y móviles  
+- 🇪🇸 Pruebas E2E, funcionales y de regresión  
 
-`ESPAÑOL`
+- 🇺🇸 Web and mobile test automation  
+- 🇺🇸 E2E, functional and regression testing  
 
- **Hola mundo, soy estudiante de la carrera Ingeniería en Sistemas Computacionales en el TECNM cámpus Mérida.** 
+---
 
-**SOBRE MI 😉**
+## 🌐 Frontend
 
-*Actualmente estoy aprendiendo lenguajes de programación💻 y cosas de robótica 🤖.
-Me gusta leer libros de mitología griega, ciencia ficción, entre otros.
-He estado aprendiendo inglés desde hace 5 años. Me gustaría aprender el idioma italiano como mi tercer idioma.*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 
-*Mis juegos favoritos son  `MINECRAFT` `FREE FIRE`*
+- 🇪🇸 Componentes reutilizables con Vue 3  
+- 🇪🇸 Desarrollo web estático y veloz con Astro  
+ 
+- 🇺🇸 Reusable components using Vue 3  
+- 🇺🇸 Fast and optimized static web development with Astro  
 
+---
 
+## ⚙️ Backend
 
-⚡ DATO CURIOSO: Me gusta más el clima calido 🌞 .
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-`TECNOLOGÍA` `JUEGOS` `PROGRAMCACION` `LIBROS` `ROBOTICA` 
-  
->La vida es como manejar una bicicleta. Para mantenerte balanceado, debes seguirte moviendo . | Albert Eistein
+---
 
->No todo lo que brilla es oro . | William Shakespeare
+## 🗃️ Bases de Datos / Databases
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-> [!IMPORTANT]
-> **Búscame en Instagram [HERE](https://www.instagram.com/angela.ch_20/)**
+- 🇪🇸 Diseño y consultas SQL eficientes  
+- 🇪🇸 Relaciones y normalización de datos  
 
+- 🇺🇸 Efficient SQL design and queries  
+- 🇺🇸 Data relationships and normalization  
 
-[![pexels-irina-iriser-974870.jpg](https://i.postimg.cc/3wmVy97w/pexels-irina-iriser-974870.jpg)](https://postimg.cc/xkjthvXr)
+---
 
+## 🐍 Otros Lenguajes y Herramientas / Other Languages & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> [!NOTE]
-> IF YOU UNDERSTAND THIS PICTURE, LET US TALK WISE PERSON...
+- 🇪🇸 Automatización de tareas con scripts  
+- 🇪🇸 Uso en pruebas, scraping y manejo de datos  
+- 🇪🇸 En proceso de integración con herramientas de IA  
 
+- 🇺🇸 Task automation via scripts  
+- 🇺🇸 Used in testing, scraping, and data handling  
+- 🇺🇸 Exploring integration with AI tools  
 
-[![Heroes-of-olympus-wallpaper-by-Viria-The-Heroes-of-Olympus-Photo.png](https://i.postimg.cc/v8jbJqP1/Heroes-of-olympus-wallpaper-by-Viria-The-Heroes-of-Olympus-Photo.png)](https://postimg.cc/vDWJ9zwM)
+---
+
+## 🧠 En Aprendizaje / Currently Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-5A5A5A?style=for-the-badge&logo=devops&logoColor=white)
+
+- 🇪🇸 Agentes conversacionales inteligentes con LangChain  
+- 🇪🇸 Integración de pruebas automatizadas en CI/CD  
+- 🇪🇸 Fundamentos de DevOps para despliegue y monitoreo  
+
+- 🇺🇸 Smart conversational agents with LangChain  
+- 🇺🇸 Automated testing integration in CI/CD pipelines  
+- 🇺🇸 DevOps fundamentals for deployment and monitoring  
+
+---
+
